@@ -3,5 +3,5 @@
   <groupId>fr.unilim.iut</groupId>
   <artifactId>monApplication</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>fr.unilim.iut.lonApplication</packaging>
+  <packaging>fr.unilim.iut.testgit</packaging>
 </project>
